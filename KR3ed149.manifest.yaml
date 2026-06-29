@@ -1,0 +1,2603 @@
+canonical_identifier: bkk:krp/KR3ed149/v1
+canonical_location: https://kanripo.org/bkk/KR3ed149/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 䱐溪秘傳簡驗方
+  identifiers:
+    krp: KR3ed149
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed149.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed149_000.yaml, hash: 'sha256:4af816384f78a999dfce7ceb8014480b703ed40117863e08999ba10959fa765c'}
+  - {seq: 1, filename: KR3ed149_001.yaml, hash: 'sha256:10f272fbf9c7f344240fff4408d6b8dfed4008b52b5d43f07b16695b6b56a4cc'}
+  - {seq: 3, filename: KR3ed149_003.yaml, hash: 'sha256:d0a4f542ae498bff25a26027ddc3251a5daef2885b05f311e54d80e534a5e110'}
+  - {seq: 1, filename: KR3ed149_001.yaml, hash: 'sha256:10f272fbf9c7f344240fff4408d6b8dfed4008b52b5d43f07b16695b6b56a4cc'}
+  - {seq: 3, filename: KR3ed149_003.yaml, hash: 'sha256:d0a4f542ae498bff25a26027ddc3251a5daef2885b05f311e54d80e534a5e110'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed149_000.markers.yaml, hash: 'sha256:c036a9af4e90121a7633e7de4aeae4b821e07eefccd596a7156180e1c7b8dd76'}
+  - {seq: 1, role: markers, filename: assets/KR3ed149_001.markers.yaml, hash: 'sha256:e9b93b547319d495ee738900647df39a26fc77ab8d9a4b9a3e751c972aa3fdaa'}
+  - {seq: 3, role: markers, filename: assets/KR3ed149_003.markers.yaml, hash: 'sha256:32ebf50cb877a2b5d168073d3c2368d9f7e7a2e7868576d212deaa1755fd912b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed149_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 248
+  label: 䱐溪單方選外治方選合印敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 26201
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 349
+  label: 調補門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d3
+    span:
+    - body
+    - 349
+    - 434
+  label: 關竅門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d4
+    span:
+    - body
+    - 434
+    - 626
+  label: 筋骨門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d5
+    span:
+    - body
+    - 626
+    - 747
+  label: 筋門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d6
+    span:
+    - body
+    - 747
+    - 782
+  label: 骨門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d7
+    span:
+    - body
+    - 782
+    - 944
+  label: 身形門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d8
+    span:
+    - body
+    - 944
+    - 1157
+  label: 皮膚門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d9
+    span:
+    - body
+    - 1157
+    - 1206
+  label: 肌肉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d10
+    span:
+    - body
+    - 1206
+    - 1489
+  label: 汗門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d11
+    span:
+    - body
+    - 1489
+    - 1545
+  label: 體肥門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d12
+    span:
+    - body
+    - 1545
+    - 1661
+  label: 體瘦門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d13
+    span:
+    - body
+    - 1661
+    - 2142
+  label: 瘧門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d14
+    span:
+    - body
+    - 2142
+    - 2282
+  label: 眠臥門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d15
+    span:
+    - body
+    - 2282
+    - 2555
+  label: 痛痹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d16
+    span:
+    - body
+    - 2555
+    - 2698
+  label: 癱痿門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d17
+    span:
+    - body
+    - 2698
+    - 2969
+  label: 厥門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d18
+    span:
+    - body
+    - 2969
+    - 3153
+  label: 暴死門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d19
+    span:
+    - body
+    - 3153
+    - 3355
+  label: 斑疹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d20
+    span:
+    - body
+    - 3355
+    - 4183
+  label: 痘門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d21
+    span:
+    - body
+    - 4183
+    - 5244
+  label: 黃疸門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d22
+    span:
+    - body
+    - 5244
+    - 5668
+  label: 頭門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d23
+    span:
+    - body
+    - 5668
+    - 5751
+  label: 腦門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d24
+    span:
+    - body
+    - 5751
+    - 5893
+  label: 發門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d25
+    span:
+    - body
+    - 5893
+    - 6244
+  label: 面門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d26
+    span:
+    - body
+    - 6244
+    - 6363
+  label: 耳門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d27
+    span:
+    - body
+    - 6363
+    - 6393
+  label: 眉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d28
+    span:
+    - body
+    - 6393
+    - 7522
+  label: 目門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d29
+    span:
+    - body
+    - 7522
+    - 7852
+  label: 鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d30
+    span:
+    - body
+    - 7852
+    - 8141
+  label: 鼻衄門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d31
+    span:
+    - body
+    - 8141
+    - 8398
+  label: 口門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d32
+    span:
+    - body
+    - 8398
+    - 8639
+  label: 舌門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d33
+    span:
+    - body
+    - 8639
+    - 8797
+  label: 言語門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d34
+    span:
+    - body
+    - 8797
+    - 9061
+  label: 聲音門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d35
+    span:
+    - body
+    - 9061
+    - 9967
+  label: 咳嗽門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d36
+    span:
+    - body
+    - 9967
+    - 10280
+  label: 哮吼門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d37
+    span:
+    - body
+    - 10280
+    - 11024
+  label: 喘促門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d38
+    span:
+    - body
+    - 11024
+    - 11303
+  label: 噦惡噫氣門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d39
+    span:
+    - body
+    - 11303
+    - 11387
+  label: 呃逆門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d40
+    span:
+    - body
+    - 11387
+    - 11836
+  label: 嘔吐門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d41
+    span:
+    - body
+    - 11836
+    - 12985
+  label: 吐血門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d42
+    span:
+    - body
+    - 12985
+    - 13159
+  label: 渴門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d43
+    span:
+    - body
+    - 13159
+    - 13245
+  label: 須門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d44
+    span:
+    - body
+    - 13245
+    - 13256
+  label: 唇門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d45
+    span:
+    - body
+    - 13256
+    - 13445
+  label: 牙齒門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d46
+    span:
+    - body
+    - 13445
+    - 13833
+  label: 痰飲門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d47
+    span:
+    - body
+    - 13833
+    - 14797
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d48
+    span:
+    - body
+    - 14797
+    - 15523
+  label: 誤吞誤哽門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d49
+    span:
+    - body
+    - 15523
+    - 16130
+  label: 頸項門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d50
+    span:
+    - body
+    - 16130
+    - 16330
+  label: 背門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d51
+    span:
+    - body
+    - 16330
+    - 16477
+  label: 肘腋門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d52
+    span:
+    - body
+    - 16477
+    - 16673
+  label: 脅門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d53
+    span:
+    - body
+    - 16673
+    - 16754
+  label: 胸門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d54
+    span:
+    - body
+    - 16754
+    - 17429
+  label: 心坎門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d55
+    span:
+    - body
+    - 17429
+    - 17473
+  label: 神志門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d56
+    span:
+    - body
+    - 17473
+    - 17655
+  label: 情志門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d57
+    span:
+    - body
+    - 17655
+    - 17800
+  label: 怔忡驚悸門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d58
+    span:
+    - body
+    - 17800
+    - 17870
+  label: 健忘門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d59
+    span:
+    - body
+    - 17870
+    - 18016
+  label: 煩躁門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d60
+    span:
+    - body
+    - 18016
+    - 18041
+  label: 昏迷門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d61
+    span:
+    - body
+    - 18041
+    - 18520
+  label: 癲狂門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d62
+    span:
+    - body
+    - 18520
+    - 18713
+  label: 癇門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d63
+    span:
+    - body
+    - 18713
+    - 18908
+  label: 驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d64
+    span:
+    - body
+    - 18908
+    - 19850
+  label: 乳門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d65
+    span:
+    - body
+    - 19850
+    - 20124
+  label: 胃脘門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d66
+    span:
+    - body
+    - 20124
+    - 21269
+  label: 噎膈反胃門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d67
+    span:
+    - body
+    - 21269
+    - 22114
+  label: 大小腹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d68
+    span:
+    - body
+    - 22114
+    - 22256
+  label: 臍門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d69
+    span:
+    - body
+    - 22256
+    - 23713
+  label: 腫脹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d70
+    span:
+    - body
+    - 23713
+    - 24229
+  label: 積聚門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d71
+    span:
+    - body
+    - 24229
+    - 24496
+  label: 癥瘕門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d72
+    span:
+    - body
+    - 24496
+    - 24775
+  label: 蟲門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d73
+    span:
+    - body
+    - 24775
+    - 25571
+  label: 霍亂門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d74
+    span:
+    - body
+    - 25571
+    - 25623
+  label: 吐瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d75
+    span:
+    - body
+    - 25623
+    - 25769
+  label: 痧氣門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d3d76
+    span:
+    - body
+    - 25769
+    - 26201
+  label: 腰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 27955
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1030
+  label: 飲食門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d3
+    span:
+    - body
+    - 1030
+    - 1694
+  label: 三消門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d4
+    span:
+    - body
+    - 1694
+    - 2102
+  label: 中蠱門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d5
+    span:
+    - body
+    - 2102
+    - 4710
+  label: 中毒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d6
+    span:
+    - body
+    - 4710
+    - 4813
+  label: 中惡門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d7
+    span:
+    - body
+    - 4813
+    - 5211
+  label: 二便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d8
+    span:
+    - body
+    - 5211
+    - 5285
+  label: 大小便血門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d9
+    span:
+    - body
+    - 5285
+    - 5827
+  label: 前陰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d10
+    span:
+    - body
+    - 5827
+    - 6868
+  label: 小便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d11
+    span:
+    - body
+    - 6868
+    - 8514
+  label: 淋門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4.d11d72
+    span:
+    - body
+    - 7490
+    - 7862
+  label: 濁門
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4.d11d73
+    span:
+    - body
+    - 7862
+    - 8514
+  label: 遺精門
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d12
+    span:
+    - body
+    - 8514
+    - 8754
+  label: 溺血門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d13
+    span:
+    - body
+    - 8754
+    - 9295
+  label: 疝門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d14
+    span:
+    - body
+    - 9295
+    - 9353
+  label: 胯門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d15
+    span:
+    - body
+    - 9353
+    - 9533
+  label: 後陰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d16
+    span:
+    - body
+    - 9533
+    - 9906
+  label: 大便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d17
+    span:
+    - body
+    - 9906
+    - 10586
+  label: 泄瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d18
+    span:
+    - body
+    - 10586
+    - 12344
+  label: 滯下門俗名痢
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d19
+    span:
+    - body
+    - 12344
+    - 13236
+  label: 便血門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d20
+    span:
+    - body
+    - 13236
+    - 13959
+  label: 痔門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d21
+    span:
+    - body
+    - 13959
+    - 14366
+  label: 女陰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d22
+    span:
+    - body
+    - 14366
+    - 14869
+  label: 經水門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d23
+    span:
+    - body
+    - 14869
+    - 15330
+  label: 崩漏門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d24
+    span:
+    - body
+    - 15330
+    - 15885
+  label: 帶下門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d25
+    span:
+    - body
+    - 15885
+    - 16253
+  label: 求嗣門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d26
+    span:
+    - body
+    - 16253
+    - 16308
+  label: 絕孕門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d27
+    span:
+    - body
+    - 16308
+    - 17621
+  label: 胎孕門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d28
+    span:
+    - body
+    - 17621
+    - 18484
+  label: 臨產門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d29
+    span:
+    - body
+    - 18484
+    - 19901
+  label: 產後門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d30
+    span:
+    - body
+    - 19901
+    - 20226
+  label: 初生小兒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d31
+    span:
+    - body
+    - 20226
+    - 20387
+  label: 四肢門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d32
+    span:
+    - body
+    - 20387
+    - 20429
+  label: 臂門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d33
+    span:
+    - body
+    - 20429
+    - 20610
+  label: 指爪門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d34
+    span:
+    - body
+    - 20610
+    - 20656
+  label: 腿膝門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d35
+    span:
+    - body
+    - 20656
+    - 21096
+  label: 足門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d36
+    span:
+    - body
+    - 21096
+    - 21158
+  label: 腳趾門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d37
+    span:
+    - body
+    - 21158
+    - 21618
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d38
+    span:
+    - body
+    - 21618
+    - 21723
+  label: 寒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d39
+    span:
+    - body
+    - 21723
+    - 22300
+  label: 傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d40
+    span:
+    - body
+    - 22300
+    - 22611
+  label: 暑門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d41
+    span:
+    - body
+    - 22611
+    - 22764
+  label: 濕門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d42
+    span:
+    - body
+    - 22764
+    - 22846
+  label: 燥門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d43
+    span:
+    - body
+    - 22846
+    - 22928
+  label: 火門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d44
+    span:
+    - body
+    - 22928
+    - 23095
+  label: 溫熱門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d45
+    span:
+    - body
+    - 23095
+    - 23432
+  label: 瘟疫門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d46
+    span:
+    - body
+    - 23432
+    - 24093
+  label: 虛勞門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d47
+    span:
+    - body
+    - 24093
+    - 24578
+  label: 疳門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d48
+    span:
+    - body
+    - 24578
+    - 24765
+  label: 邪祟門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d49
+    span:
+    - body
+    - 24765
+    - 25828
+  label: 癰疽門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d50
+    span:
+    - body
+    - 25828
+    - 25878
+  label: 疔門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d51
+    span:
+    - body
+    - 25878
+    - 25937
+  label: 赤遊門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d52
+    span:
+    - body
+    - 25937
+    - 26111
+  label: 癜癩門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d53
+    span:
+    - body
+    - 26111
+    - 26123
+  label: 疥癬門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d54
+    span:
+    - body
+    - 26123
+    - 26478
+  label: 楊梅瘡門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d55
+    span:
+    - body
+    - 26478
+    - 26553
+  label: 癭瘤門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d56
+    span:
+    - body
+    - 26553
+    - 26984
+  label: 金刃傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d57
+    span:
+    - body
+    - 26984
+    - 27279
+  label: 打撲傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d58
+    span:
+    - body
+    - 27279
+    - 27448
+  label: 湯火傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d4d59
+    span:
+    - body
+    - 27448
+    - 27955
+  label: 蟲獸傷門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 20985
+  label: 䱐溪外治方選卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d2
+    span:
+    - body
+    - 8
+    - 149
+  label: 關竅門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d3
+    span:
+    - body
+    - 149
+    - 288
+  label: 筋門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d4
+    span:
+    - body
+    - 288
+    - 336
+  label: 骨門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d5
+    span:
+    - body
+    - 336
+    - 397
+  label: 身形門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d6
+    span:
+    - body
+    - 397
+    - 461
+  label: 皮膚門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d7
+    span:
+    - body
+    - 461
+    - 535
+  label: 肌肉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d8
+    span:
+    - body
+    - 535
+    - 630
+  label: 汗門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d9
+    span:
+    - body
+    - 630
+    - 674
+  label: 發熱門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d10
+    span:
+    - body
+    - 674
+    - 867
+  label: 瘧門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d11
+    span:
+    - body
+    - 867
+    - 1024
+  label: 痛痹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d12
+    span:
+    - body
+    - 1024
+    - 1052
+  label: 癱痿門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d13
+    span:
+    - body
+    - 1052
+    - 1066
+  label: 厥門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d14
+    span:
+    - body
+    - 1066
+    - 1353
+  label: 暴死門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d15
+    span:
+    - body
+    - 1353
+    - 1617
+  label: 斑疹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d16
+    span:
+    - body
+    - 1617
+    - 2214
+  label: 痘門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d17
+    span:
+    - body
+    - 2214
+    - 2384
+  label: 黃疸門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d18
+    span:
+    - body
+    - 2384
+    - 3973
+  label: 頭門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d19
+    span:
+    - body
+    - 3973
+    - 4363
+  label: 囟腦門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d20
+    span:
+    - body
+    - 4363
+    - 4375
+  label: 眩暈門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d21
+    span:
+    - body
+    - 4375
+    - 4639
+  label: 發門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d22
+    span:
+    - body
+    - 4639
+    - 5591
+  label: 面腮門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d23
+    span:
+    - body
+    - 5591
+    - 6918
+  label: 耳門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d24
+    span:
+    - body
+    - 6918
+    - 7048
+  label: 眉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d25
+    span:
+    - body
+    - 7048
+    - 9552
+  label: 目門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d26
+    span:
+    - body
+    - 9552
+    - 10125
+  label: 鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d27
+    span:
+    - body
+    - 10125
+    - 10449
+  label: 鼻衄門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d28
+    span:
+    - body
+    - 10449
+    - 11102
+  label: 口門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d29
+    span:
+    - body
+    - 11102
+    - 12204
+  label: 舌門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d30
+    span:
+    - body
+    - 12204
+    - 12259
+  label: 言語門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d31
+    span:
+    - body
+    - 12259
+    - 12283
+  label: 聲音門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d32
+    span:
+    - body
+    - 12283
+    - 12312
+  label: 咳嗽門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d33
+    span:
+    - body
+    - 12312
+    - 12324
+  label: 吐血門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d34
+    span:
+    - body
+    - 12324
+    - 12353
+  label: 須門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d35
+    span:
+    - body
+    - 12353
+    - 12667
+  label: 唇門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d36
+    span:
+    - body
+    - 12667
+    - 14111
+  label: 牙齒門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d37
+    span:
+    - body
+    - 14111
+    - 14262
+  label: 痰飲門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d38
+    span:
+    - body
+    - 14262
+    - 15389
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d39
+    span:
+    - body
+    - 15389
+    - 15506
+  label: 誤硬門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d40
+    span:
+    - body
+    - 15506
+    - 16329
+  label: 頸項門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d41
+    span:
+    - body
+    - 16329
+    - 16412
+  label: 肩門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d42
+    span:
+    - body
+    - 16412
+    - 16868
+  label: 背門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d43
+    span:
+    - body
+    - 16868
+    - 17359
+  label: 肘腋門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d44
+    span:
+    - body
+    - 17359
+    - 17538
+  label: 脅門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d45
+    span:
+    - body
+    - 17538
+    - 17669
+  label: 胸門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d46
+    span:
+    - body
+    - 17669
+    - 17691
+  label: 痞滿門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d47
+    span:
+    - body
+    - 17691
+    - 17738
+  label: 心坎門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d48
+    span:
+    - body
+    - 17738
+    - 17790
+  label: 情志門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d49
+    span:
+    - body
+    - 17790
+    - 17829
+  label: 怔忡驚悸門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d50
+    span:
+    - body
+    - 17829
+    - 17852
+  label: 昏迷門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d51
+    span:
+    - body
+    - 17852
+    - 17898
+  label: 癲狂門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d52
+    span:
+    - body
+    - 17898
+    - 17946
+  label: 癇門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d53
+    span:
+    - body
+    - 17946
+    - 18113
+  label: 驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d54
+    span:
+    - body
+    - 18113
+    - 18591
+  label: 乳門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d55
+    span:
+    - body
+    - 18591
+    - 18864
+  label: 腹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d56
+    span:
+    - body
+    - 18864
+    - 19430
+  label: 臍門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d57
+    span:
+    - body
+    - 19430
+    - 19870
+  label: 腫脹門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d58
+    span:
+    - body
+    - 19870
+    - 20151
+  label: 積聚門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d59
+    span:
+    - body
+    - 20151
+    - 20263
+  label: 癥瘕門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d60
+    span:
+    - body
+    - 20263
+    - 20339
+  label: 蟲門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d61
+    span:
+    - body
+    - 20339
+    - 20630
+  label: 霍亂門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d62
+    span:
+    - body
+    - 20630
+    - 20756
+  label: 痧氣門
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed149_jc_001-d5d63
+    span:
+    - body
+    - 20756
+    - 20985
+  label: 腰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 20844
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 348
+  label: 飲食門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d3
+    span:
+    - body
+    - 348
+    - 359
+  label: 中蠱門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d4
+    span:
+    - body
+    - 359
+    - 581
+  label: 中毒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d5
+    span:
+    - body
+    - 581
+    - 694
+  label: 中惡門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d6
+    span:
+    - body
+    - 694
+    - 848
+  label: 二便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d7
+    span:
+    - body
+    - 848
+    - 2365
+  label: 前陰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d8
+    span:
+    - body
+    - 2365
+    - 2789
+  label: 小便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d9
+    span:
+    - body
+    - 2789
+    - 2806
+  label: 淋門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d10
+    span:
+    - body
+    - 2806
+    - 2885
+  label: 遺精門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d11
+    span:
+    - body
+    - 2885
+    - 3162
+  label: 疝門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d12
+    span:
+    - body
+    - 3162
+    - 4108
+  label: 後陰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d13
+    span:
+    - body
+    - 4108
+    - 4335
+  label: 大便門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d14
+    span:
+    - body
+    - 4335
+    - 4396
+  label: 泄瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d15
+    span:
+    - body
+    - 4396
+    - 4638
+  label: 滯下門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d16
+    span:
+    - body
+    - 4638
+    - 5078
+  label: 痔門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d17
+    span:
+    - body
+    - 5078
+    - 6180
+  label: 女陰門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d18
+    span:
+    - body
+    - 6180
+    - 6280
+  label: 求嗣門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d19
+    span:
+    - body
+    - 6280
+    - 6445
+  label: 胎孕門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d20
+    span:
+    - body
+    - 6445
+    - 6786
+  label: 臨產門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d21
+    span:
+    - body
+    - 6786
+    - 7249
+  label: 產後門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d22
+    span:
+    - body
+    - 7249
+    - 7638
+  label: 小兒初生門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d23
+    span:
+    - body
+    - 7638
+    - 7906
+  label: 四肢門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d24
+    span:
+    - body
+    - 7906
+    - 8042
+  label: 臂門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d25
+    span:
+    - body
+    - 8042
+    - 8132
+  label: 手門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d26
+    span:
+    - body
+    - 8132
+    - 8587
+  label: 指爪門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d27
+    span:
+    - body
+    - 8587
+    - 9670
+  label: 腿膝門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d28
+    span:
+    - body
+    - 9670
+    - 11178
+  label: 足趾門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d29
+    span:
+    - body
+    - 11178
+    - 11235
+  label: 風門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d30
+    span:
+    - body
+    - 11235
+    - 11407
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d31
+    span:
+    - body
+    - 11407
+    - 11575
+  label: 寒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d32
+    span:
+    - body
+    - 11575
+    - 11857
+  label: 傷寒門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d33
+    span:
+    - body
+    - 11857
+    - 11929
+  label: 暑門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d34
+    span:
+    - body
+    - 11929
+    - 11989
+  label: 濕門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d35
+    span:
+    - body
+    - 11989
+    - 12012
+  label: 溫熱門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d36
+    span:
+    - body
+    - 12012
+    - 12179
+  label: 瘟疫門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d37
+    span:
+    - body
+    - 12179
+    - 12231
+  label: 虛勞門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d38
+    span:
+    - body
+    - 12231
+    - 12496
+  label: 諸疳門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d39
+    span:
+    - body
+    - 12496
+    - 12624
+  label: 邪祟門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d40
+    span:
+    - body
+    - 12624
+    - 12977
+  label: 五絕門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d41
+    span:
+    - body
+    - 12977
+    - 14825
+  label: 癰疽門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d42
+    span:
+    - body
+    - 14825
+    - 15514
+  label: 疔門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d43
+    span:
+    - body
+    - 15514
+    - 16251
+  label: 赤遊門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d44
+    span:
+    - body
+    - 16251
+    - 16447
+  label: 癜癩門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d45
+    span:
+    - body
+    - 16447
+    - 16799
+  label: 癬疥門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d46
+    span:
+    - body
+    - 16799
+    - 16886
+  label: 反花門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d47
+    span:
+    - body
+    - 16886
+    - 17033
+  label: 楊梅瘡門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d48
+    span:
+    - body
+    - 17033
+    - 17182
+  label: 癭瘤門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d49
+    span:
+    - body
+    - 17182
+    - 17585
+  label: 疿瘡天泡門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d50
+    span:
+    - body
+    - 17585
+    - 18224
+  label: 金刃傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d51
+    span:
+    - body
+    - 18224
+    - 18298
+  label: 竹木傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d52
+    span:
+    - body
+    - 18298
+    - 18907
+  label: 跌撲傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d53
+    span:
+    - body
+    - 18907
+    - 19344
+  label: 湯火傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d54
+    span:
+    - body
+    - 19344
+    - 19674
+  label: 凍漆瘡門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d55
+    span:
+    - body
+    - 19674
+    - 19710
+  label: 雜傷門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed149_jc_003-d6d56
+    span:
+    - body
+    - 19710
+    - 20844
+  label: 蟲獸傷門
+  type: section
+  level: 2
+hash: sha256:f96856df587b0b01cf761316b82622254f77af2c188abf3eb663dd3cced7c1a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
