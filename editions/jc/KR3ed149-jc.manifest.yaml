@@ -24,10 +24,8 @@ assets:
   - {seq: 3, filename: KR3ed149_003-jc.yaml, hash: 'sha256:8668b6de5dc1c9747729f22fe9ce6c8b579deba3ae10fda177391159b2645ff3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed149_000-jc.markers.yaml, hash: 'sha256:16e2715fac92a1d453775ff0d111885959a9b6c4e3abfc61286acb2db5b2b2fe'}
-  - {seq: 1, role: markers, filename: assets/KR3ed149_001-jc.markers.yaml, hash: 'sha256:91d441368abfdef64fa9d61abd60838acc9e1b614f6a2ee65e0a77cb145e14b6'}
-  - {seq: 3, role: markers, filename: assets/KR3ed149_003-jc.markers.yaml, hash: 'sha256:e04c03fdf2e971ce17f6cd615aa62828b25d03eebd2db1893b84fe422ff84f5c'}
-  - {seq: 1, role: markers, filename: assets/KR3ed149_001-jc.markers.yaml, hash: 'sha256:91d441368abfdef64fa9d61abd60838acc9e1b614f6a2ee65e0a77cb145e14b6'}
-  - {seq: 3, role: markers, filename: assets/KR3ed149_003-jc.markers.yaml, hash: 'sha256:e04c03fdf2e971ce17f6cd615aa62828b25d03eebd2db1893b84fe422ff84f5c'}
+  - {seq: 1, role: markers, filename: assets/KR3ed149_001-jc.markers.yaml, hash: 'sha256:240104e2285c885dad0e9735eebbbebfd0bc867d8c5d305317d284dd46ba3cc2'}
+  - {seq: 3, role: markers, filename: assets/KR3ed149_003-jc.markers.yaml, hash: 'sha256:482fb18403c97d72b22d4641ec3bd8f87a3ba81c5a8e1d11dc2e025c52b89f7c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2599,4 +2597,4 @@ table_of_contents:
   label: 蟲獸傷門
   type: section
   level: 2
-hash: sha256:fd2ce4b194b8a12029086ba2d1d13abf3b81169e18e6fe839393a3252ab8b343
+hash: sha256:7dc6014642b1285fa974a87e9eaed3c649bfffa0417e6d357c84d4d375284fb1

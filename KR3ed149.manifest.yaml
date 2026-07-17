@@ -24,8 +24,8 @@ assets:
   - {seq: 3, filename: KR3ed149_003.yaml, hash: 'sha256:fc8da68224b5ed6f4a65d6953cf73c6eaa9c155918e92d0918d12ebd50a78d35'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed149_000.markers.yaml, hash: 'sha256:95e2fcff73e46108ae33a765e4b1888bcaa8efce57219f5122fcce4c0c87a6d4'}
-  - {seq: 1, role: markers, filename: assets/KR3ed149_001.markers.yaml, hash: 'sha256:4b9d89ed4459518eec1a63fe5d710e2fe1fa7daff25506638a6c69fa6603a141'}
-  - {seq: 3, role: markers, filename: assets/KR3ed149_003.markers.yaml, hash: 'sha256:7f03119f9d08dfe3d4828b0a2fa7cfda7be03b078c3ce9e4c4139140d9e760d7'}
+  - {seq: 1, role: markers, filename: assets/KR3ed149_001.markers.yaml, hash: 'sha256:c16f8aaf9211196392f06f49bc93d05712a3b052e5ee5f6de4f61210cfa29d0c'}
+  - {seq: 3, role: markers, filename: assets/KR3ed149_003.markers.yaml, hash: 'sha256:9f7dc0bccb3f10ece33320641268f6416a571653505e2d3822c30e51c9efa503'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2597,7 +2597,7 @@ table_of_contents:
   label: 蟲獸傷門
   type: section
   level: 2
-hash: sha256:f2757d34fd0108d7d787e607e94c1cf05c816e1de06d97475d6258eecf28e1a0
+hash: sha256:b8227b83b00d48b609344f0392444f65a82081e896e01652498eb5e84d6cbf80
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
